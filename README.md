@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/forks/aphasia-831/img_Viewer?style=social" alt="GitHub forks"/>
   </a>
   <!-- License -->
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="License"/>
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License"/>(https://github.com/aphasia-831/img_Viewer/blob/main/LICENSE)
   <!-- 技术栈 -->
   <img src="https://img.shields.io/badge/C%23-WinUI-blue" alt="C#"/>
   <img src="https://img.shields.io/badge/Python-AI-yellow" alt="Python"/>
