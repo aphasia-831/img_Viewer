@@ -10,11 +10,10 @@
     <img src="https://img.shields.io/github/forks/aphasia-831/img_Viewer?style=social" alt="GitHub forks"/>
   </a>
   <!-- License -->
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="License"/>(https://github.com/aphasia-831/img_Viewer/blob/main/LICENSE)
+   <a href=".LICENSE">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License"/></a>
   <!-- 技术栈 -->
-  <img src="https://img.shields.io/badge/C%23-WinUI-blue" alt="C#"/>
-  <img src="https://img.shields.io/badge/Python-AI-yellow" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQLite-DB-lightgrey" alt="SQLite"/>
+   <a href="#"><img src="https://img.shields.io/badge/C%23-WinUI-blue" alt="C#"/></a> <a href="#"> <img src="https://img.shields.io/badge/Python-AI-yellow" alt="Python"/></a> <a href="#"> <img src="https://img.shields.io/badge/SQLite-DB-lightgrey" alt="SQLite"/></a>
 </p>
 一个基于 WinUI 3 + Python + SQLite 的本地图像标签管理工具，支持自动识别图片内容并进行高效筛选与浏览。
 
