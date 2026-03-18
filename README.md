@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/forks/aphasia-831/img_Viewer?style=social" alt="GitHub forks"/>
   </a>
   <!-- License -->
-   <a href=".LICENSE">
+   <a href="LICENSE">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License"/></a>
   <!-- 技术栈 -->
    <a href="#"><img src="https://img.shields.io/badge/C%23-WinUI-blue" alt="C#"/></a> <a href="#"> <img src="https://img.shields.io/badge/Python-AI-yellow" alt="Python"/></a> <a href="#"> <img src="https://img.shields.io/badge/SQLite-DB-lightgrey" alt="SQLite"/></a>
