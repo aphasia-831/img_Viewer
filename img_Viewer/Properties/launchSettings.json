@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "img_Viewer (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "img_Viewer (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
