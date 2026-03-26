@@ -115,3 +115,8 @@ https://github.com/rezoo/illustration2vec/releases
 | ✅ 已完成 / Completed | 图片浏览模块 / Image browsing module<br>标签存储与翻译 / Tag storage & Translation<br>自动标签识别 / Auto tag recognition |
 | 🔄 进行中 / In Progress | 标签检索 / Tag search |
 | ⏳ 待做 / To Do | 模型自动下载 / Auto model download<br>标签自定义 / Custom Tags<br>多风格识别 / Multi-Style Recognition<br>文件夹监控 / Folder Watch<br>图片收藏 / Favorites<br>未定 / Pending |
+ 
+ 
+ 🛠️ 截图展示 | Screenshot
+ ---
+ <img width="1423" height="774" alt="image" src="https://github.com/user-attachments/assets/cdaeb738-d28c-41a2-9e3c-8bd3815f5604" />
